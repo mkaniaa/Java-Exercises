@@ -1,3 +1,5 @@
+THIS FILE DOESN'T DISPLAY TASK CONTENT CORRECTLY. Check the README.txt file.
+
 The project was made from task to task, contents of which are listed below. The program is matched to the last task, so not all functions from other tasks work. To test the program, you must change the records in the file input.txt. Results will be saved in file reloaded_input.txt.
 
 Task 1
